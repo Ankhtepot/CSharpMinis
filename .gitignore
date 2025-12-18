@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+_logs/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+*.nuspec
+
+# VS / MSBuild cache
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.db
+*.svclog
+*.vsp
+*.vspx
