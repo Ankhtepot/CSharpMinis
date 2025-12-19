@@ -23,3 +23,6 @@ packages/
 *.svclog
 *.vsp
 *.vspx
+
+# JetBrains Rider / IntelliJ
+.idea/
