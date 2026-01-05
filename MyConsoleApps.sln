@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsParser", "LogsParser\Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphorSlim", "SemaphorSlim\SemaphorSlim.csproj", "{5E715DF2-B14C-47BB-B7AE-7A72242D18CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreaker", "CircuitBreaker\CircuitBreaker.csproj", "{5B25C1F4-835B-4F34-84C6-1D46F6578262}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{5E715DF2-B14C-47BB-B7AE-7A72242D18CF}.Release|x64.Build.0 = Release|Any CPU
 		{5E715DF2-B14C-47BB-B7AE-7A72242D18CF}.Release|x86.ActiveCfg = Release|Any CPU
 		{5E715DF2-B14C-47BB-B7AE-7A72242D18CF}.Release|x86.Build.0 = Release|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Debug|x64.Build.0 = Debug|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Debug|x86.Build.0 = Debug|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Release|x64.ActiveCfg = Release|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Release|x64.Build.0 = Release|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Release|x86.ActiveCfg = Release|Any CPU
+		{5B25C1F4-835B-4F34-84C6-1D46F6578262}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
